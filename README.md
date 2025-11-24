@@ -15,7 +15,7 @@ FEATURES:
 1. Continuous Monitoring: The application runs in a persistent loop (while True), constantly checking the current time against the scheduled events in the timetable.
 2. Time-Based Notifications: It triggers a notification precisely when the current system time matches the scheduled time of an entry.
 3. Notification Sound:  When the notification pops up it also plays a beep sound along with the notification to drive attention of the user.
-4.Prevent Duplicate Alerts: Each scheduled event is tracked using a unique key and stored in the set. This ensures that the user receives the reminder only once per event, per day, preventing notification spam.
+4. Prevent Duplicate Alerts: Each scheduled event is tracked using a unique key and stored in the set. This ensures that the user receives the reminder only once per        event, per day, preventing notification spam.
 5. Daily State Reset: At the change of the day (midnight), the internal notification tracker automatically clears, ensuring that recurring daily events are correctly scheduled and notified again on the new date.
 
 TECHNOLOGIES/TOOLS USED:
