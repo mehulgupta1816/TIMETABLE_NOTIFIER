@@ -8,7 +8,7 @@ TIMETABLE NOTIFIER FOR INDIVIDUALS.
 
 OVERVIEW OF THE PROJECT:
 
-This python program works as a notifier tool for individuals which notifies them about their class or events according to their timings. This project aims to develop a simple yet effective Python-based command-line program to help students manage their schedules and receive timely notifications for classes and important events. The goal is to create a reliable, easy-to-use tool that replaces manual timetable checking and minimizes the chance of missing lectures or deadlines.
+This python program works as a notifier tool for individuals which notifies them about their class or events according to their timings. This project aims to develop a simple yet effective python based command line program to help students manage their schedules and receive timely notifications for classes and important events. The goal is to create a reliable, easy-to-use tool that replaces manual timetable checking and minimizes the chance of missing lectures or deadlines.
 
 FEATURES:
 
