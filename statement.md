@@ -36,6 +36,12 @@ Time Comparison: For the filtered events, it constantly calculates the differenc
 
 Notification Trigger: It triggers the notification feature when the calculated time difference exactly matches the user's pre-set lead time.
 
+AUTHOR:
+
+MEHUL GUPTA
+25BCE10244
+
+
 
 
 
