@@ -1,7 +1,7 @@
 
 PROBLEM STATEMENT:
 
-Students or professionals often miss important classes, meetings, or scheduled events because they rely solely on static, easy-to-forget paper timetables or require manual checking of digital calendars. This leads to missed learning opportunities, professional commitments, and wasted time due to being unprepared or late.
+Students or professionals often miss important classes, meetings, or scheduled events because they rely solely on static, easy-to-forget paper timetables or require manual checking of digital calendars. This leads to missed learning opportunities, professional commitments and events, and wasted time due to being unprepared or late.
 
 SCOPE OF THE PROJECT:
 
