@@ -1,11 +1,11 @@
-import json
+import json  #the timetable file is stored in json file format
 import time
 import datetime
 import os
 
 
 timetablefile = "timetable.json"
-checkinterval = 10
+checkinterval = 10    # to refresh the program and check in every 10 seconds
 
 def loadtimetable():
     if not os.path.exists(timetablefile):
@@ -36,7 +36,7 @@ def notify(title):
     print("\n" + "=" * 40)
     print(" REMINDER:", title)
     print("=" * 40 + "\n")
-    print("\a")
+    print("\a")     #for the bell sound 
     print(end="", flush=True)
 
 def main():
@@ -78,5 +78,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
